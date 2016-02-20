@@ -41,3 +41,10 @@
 .zci--answer .crontab-container dd {
     margin-bottom: 1ex;
 }
+
+.crontab-container-overlay {
+    position: relative;
+    margin-top: -1em;
+    height: 1em;
+    background-image: linear-gradient(transparent, #F2F2F2);
+}
